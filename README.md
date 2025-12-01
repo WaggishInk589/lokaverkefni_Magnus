@@ -1,0 +1,2 @@
+# lokaverkefni_Magnus
+lokaverkefni_kest
