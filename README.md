@@ -9,4 +9,6 @@ lokaverkefni_kest
 5. gera eirben að collaborator
 
 ### skjáskot
+![GÖGN](https://github.com/WaggishInk589/lokaverkefni_Magnus/blob/main/Skj%C3%A1mynd%202025-12-03%20155944.png)
+
 ![skjáskot passwd](https://github.com/WaggishInk589/lokaverkefni_Magnus/blob/main/Skj%C3%A1mynd%202025-12-03%20155545.png)
